@@ -1,0 +1,9 @@
+tất cả nội dung tham khảo phải đính kèm sách tham khảo hay đường dẫn
+liệt kê nhiệm vụ chính, cách triển 
+tự vẽ sơ đồ kiến trúc của hệ thống trong bài lab(thể hiện cách dữ liệu được truyền dẫn)
+mô tả luồng sử lý khi token đúng, hay token sai
+
+nêu vai trò
+
+CHụp kết quả ,
+
